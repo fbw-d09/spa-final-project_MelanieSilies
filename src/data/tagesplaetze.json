@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Am Raddesee",
+          "Website": "X",
+          "Ueber":"Tagesparkplatz am See. Hier darf nicht übernachtet werden. Bitte sauber hinterlassen, damit Camper noch lange willkommen sind",
+          "4RPS-Tipp":"Mit dem Rad zum Schloss Clemenswerth und sich im Schlosspark ein Picknick gönnen.",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "X",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":"X"
+        },
+        "geometry": {
+          "coordinates": [
+            7.553832910722946,
+            52.84216554157874
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Parkplatz in Ootmarsum",
+          "Website": "X",
+          "Ueber":"Tagesparkplatz am See. Hier darf nicht übernachtet werden. Bitte sauber hinterlassen, damit Camper noch lange willkommen sind. 4 Plätze für Reisebusse und viele für PKW.",
+          "4RPS-Tipp":"5 Minuten zu Fuß ins Zentrum und 2 Min bis zum Besucherzentrum.",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "X",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":"X",
+          "Duschen":"X",
+          "Angeln":"X",
+          "Wassersport":"X",
+          "Bademöglickeit":"X",
+          "Wandern":"",
+          "Radfahren":"",
+          "Kultur":""
+        },
+        "geometry": {
+          "coordinates": [
+            6.898435278126556,
+            52.40334806523961
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Ausgangspunkt für Wanderungen",
+          "Website": "X",
+          "Ueber":"Tagesparkplatz am See. Hier darf nicht übernachtet werden. Bitte sauber hinterlassen, damit Camper noch lange willkommen sind.",
+          "4RPS-Tipp":"Het Springendal ist ein unfassbar tolles Wandergebiet durch viel Natur. Kleine Bäche plätschern und Vögel zwitschern und du läuft Mitten durch",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "X",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"X",
+          "Toiletten":"",
+          "Duschen":"X",
+          "Angeln":"X",
+          "Wassersport":"X",
+          "Bademöglickeit":"X",
+          "Wandern":"",
+          "Radfahren":"",
+          "Kultur":"X"
+        },
+        "geometry": {
+          "coordinates": [
+            6.872531545023293,
+            52.43885091314206
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+    ]
+}

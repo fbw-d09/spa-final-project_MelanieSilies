@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Zoo":"Zoo",
+          "Name": "Tierpark Nordhorn",
+          "Website": "https://www.tierpark-nordhorn.de/",
+          "Ueber":"Der Tierpark Nordhorn ist wunderschön natürlich angelegt und bietet viel Grün. Der Vechtehof zeigt das Leben in der Grafschaft Bentheim, wie es im 18 Jahrhundert war. Wie man gekocht und mit dem Vieh in einem Haus gelebt hat. Es gibt tägliche Schaufütternungen und Führungen sind auch möglich. Wem ein Tag im Tierpark nicht reicht, kann sich auch ein Ferienhaus direkt im Park nehmen",
+          "4RPS-Tipp":"Wer nicht auf Wochenende und Ferien angewiesen ist kommt am Besten morgens in der Woche und kauft an der Kasse Futter. Wenn der Park nicht so voll ist hat man gute Chancen, dass Hirsche, Alpakas und Vögel einem direkt aus der Hand fressen.",
+          "Oeffnungszeiten":"Februar:\nMo – So 9.00 Uhr bis 18.00 Uhr \nSommersaison (01.03. – 31.10.):\nMo – So 9.00 bis 19.00 Uhr\n01.November bis Ende Januar:\nMo – So 9.00 Uhr bis 17.00 Uhr",
+          "Preis": "ab 9,90€",
+          "Kartenzahlung":"",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":""
+        },
+        "geometry": {
+          "coordinates": [
+            7.086611599310345,
+            52.4292801746827
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Bar":"Bar",
+          "Name": "HOCH 5 CocktailBar",
+          "Website": "https://www.hoch5bar.de/",
+          "Ueber":"Frische Cocktails über den Dächern der Stadt Nordhorn. Bei uns bekommt Ihr die Cocktails von der Karte – oder ganz individuelle Varianten genau nach eurem Geschmack.\nUnsere Experten hinter und vor der Theke erklären euch dazu noch alles, was ihr wissen wollt. Die Bar ist mit einem Aufzug zu erreichen, allerdings müssen zur Toilette und nach ganz oben Treppen genommen werden, daher nicht zu 100% Barrierefrei",
+          "4RPS-Tipp":"Am besten zum Sonnenuntergang einen Platz ganz oben nehmen. Am besten vorher reservieren. Mit einem leckeren Cocktail in der Hand und Blick über die ganze Stadt der Sonne beim untergehen zusehen",
+          "Oeffnungszeiten":"Fr. & Sa. – Open Bar ab 19:00 Uhr",
+          "Preis": "€€",
+          "Kartenzahlung":"",
+          "Reservierung": "05921 7282246",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":""
+        },
+        "geometry": {
+          "coordinates": [
+            7.072647800659752,
+            52.43260736618481
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "See":"See",
+          "Name": "Speicherbecken Geeste",
+          "Website": "https://www.geeste.de/tourismus-freizeit-und-kultur/sehenswertes/geester-see/geester-see.html",
+          "Ueber":"Mittelpunkt des Erholungsgebietes ist der 180 ha große Speichersee Geeste - ein beliebtes Segelrevier, in dem alljährlich zahlreiche Regatten von regionaler und überregionaler Bedeutung stattfinden. Auch Surfer und Taucher finden auf bzw. im Speichersee Geeste ideale Bedingungen vor und am 850 Meter langen Badestrand tummeln sich im Sommer Badegäste aller Altersstufen. Das liegt auch am Umfeld: Auf der rund sechs Kilometer langen Dammkrone sind Spaziergänger, Radfahrer und Skater unterwegs, in unmittelbarer Nähe des Badestrands finden Familien einen großen Spielplatz. Jugendliche stellen ihr Können in der Halfpipe nahe dem Surfer-Haus und auf dem benachbarten Beachvolleyballfeld unter Beweis. Ein Soccerfeld lädt ebenfalls zum Toben und Bolzen ein. Und Naturfreunde genießen abseits des Treibens auf der anderen Seeseite den Blick auf das beeindruckende 50 ha große Feuchtbiotop, in dem vor allem zahlreiche Vogelarten beheimatet sind.Am Fuße des Sees laden Jugendhaus und Jugendzeltplatz zu mehrtägigen Gruppenaufenthalten am Speichersee Geeste ein.Auch kulturell ist der Speichersee Geeste eine wichtige Adresse: Geester Seemeile, Drachenfest oder Shanty-Open-Air  – nicht nur auf, auch am Wasser pulsiert das Leben ",
+          "4RPS-Tipp":"Einmal gemütlich um den See und danach in der Deichkrone lecker essen gehen",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "Kostenlos",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":"",
+          "Duschen":"",
+          "Angeln":"",
+          "Wassersport":"",
+          "Bademöglickeit":"",
+          "Wandern":"",
+          "Radfahren":""
+        },
+        "geometry": {
+          "coordinates": [
+            7.278815972077382,
+            52.59391841844837
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Museum":"Museum",
+          "Name": "Erdöl- und Erdgasmuseum Twist",
+          "Website": "https://erdoel-erdgas-museum-twist.de/",
+          "Ueber":"Das Erdöl-Erdgas-Museum Twist liegt inmitten der flächenmäßig größten Erdölfelder Deutschlands. Äußerlich passt es sich den benachbarten Heimathäusern an. Ein Fachdesigner konzipierte die Innengestaltung für dieses technische Museum. Übersichtlich präsentiert es auf 450m² weiter, lichtdurchfluteter Fläche in zwei Ebenen seine Objekte. Die obere Galerie kann für Sonderausstellungen genutzt werden. Im Freigelände am Museum sind große Anlagenteile aus dem Erdöl-Erdgas-Betrieb zu besichtigen. Das Museum verfügt über einen Vortragsraum mit Medienpräsentation sowie über eine Fachbibliothek. Es ist behindertengerecht eingerichtet.",
+          "4RPS-Tipp":"Hier erfährt man alles über die Gegend, in der Erdöl und Erdgas nicht wegzudenken sind. Wer noc nicht genug hat, kann sich mit dem Rad noch einige Stellen anschauen.",
+          "Oeffnungszeiten":"Mittwochs sowie Freitag bis Sonntag von 14:00 bis 18:00 Uhr",
+          "Preis": "5,00€",
+          "Kartenzahlung":"",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"X",
+          "Toiletten":"",
+          "Duschen":"X",
+          "Angeln":"X",
+          "Wassersport":"X",
+          "Bademöglickeit":"X",
+          "Wandern":"X",
+          "Radfahren":"X"
+        },
+        "geometry": {
+          "coordinates": [
+            7.093575401990449,
+            52.64803057557614
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Het Springendal",
+          "Website": "https://www.ootmarsum-dinkelland.nl/over-dinkelland/natuurgebieden/9438-het-springendal-1/",
+          "Ueber":"'Der Garten der Niederlande'ist der Spitzname dieses Stück Twente in Ootmarsum. Malerische Versickerung Teiche, Wasserfälle und kleine Bäche im Wald.",
+          "4RPS-Tipp":"Het Springendal ist ein unfassbar tolles Wandergebiet durch viel Natur. Kleine Bäche plätschern und Vögel zwitschern und du läuft Mitten durch. Hügel, Wiesen, Seen, Wiesen, Mooren und historische Bauernhöfe vervollständigen das Bild.",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "X",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"X",
+          "Toiletten":"",
+          "Duschen":"X",
+          "Angeln":"X",
+          "Wassersport":"X",
+          "Bademöglickeit":"X",
+          "Wandern":"",
+          "Radfahren":"",
+          "Kultur":"X"
+        },
+        "geometry": {
+          "coordinates": [
+            6.892286652025973,
+            52.43250496927439
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+
+    ]
+
+  }

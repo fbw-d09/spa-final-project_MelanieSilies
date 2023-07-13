@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Stellplatz am See Twist",
+          "Website": "https://www.twist-emsland.de/tourismus-und-freizeit/wohnmobilstellplatz/wohnmobilstellplatz.html",
+          "Ueber":"Wer mit dem eigenen Wohnmobil anreist, findet im Zentrum der Gemeinde Twist sechs große Stellplätze mit Ver- und Entsorgungsmöglichkeiten. Die Plätze sind gepflastert, ausreichend beleuchtet und können ganzjährig genutzt werden. Eine Standgebühr wird nicht erhoben. Für die Nutzung von Strom und Trinkwasser sind Münzautomaten vorhanden ",
+          "4RPS-Tipp":"Vor dem Frühstück mit dem Hund um den See, dann mit dem Rad durch das Naturschutzgebiet Bargerveen und zum Essen zu 'Kiek in de Pann'",
+          "Preis": "Kostenlos",
+          "Strom": "1€ / 1,5 kWh",
+          "Wasser": "1E / 100l",
+          "Restaurant":"800m",
+          "Anzahl der Plätze": 6,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "X",
+          "Duschen": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"200m",
+          "Wintercamping":"",
+          "Gasflaschenservice":"",
+          "Bäcker":"",
+          "Aktivitäten":[ "Spielplatz","Bademöglichkeit","Wandern","Radfahren","Volleyball","Tischtennis","Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.088724562463824,
+            52.646559927548765
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Blaue Lagune Twist",
+          "Website": "https://www.haeppy-life.de/blaue-lagune-twist/",
+          "Ueber":"Unsere Mission ist es Jung & Alt auf unseren Campingplätzen zusammen zu führen um eine tolle Campinggemeinschaft zu bilden. Hierzu ist uns Ruhe und Erholung auf dem Campingplatz wichtig, aber in regelmäßigen Abständen veranstalten wir Veranstaltungen um die Generationen zu vernetzten z.B. Modellbaufestival, Bingo-Abend, Kölschfest etc.",
+          "Preis": "ab 9,00€",
+          "Strom": "5€ / Tag",
+          "Wasser": "√",
+          "Restaurant":"Vor Ort",
+          "Plätze": "n.a.",
+          "Reservierung": "√",
+          "Wlan": "√",
+          "Toilettenentsorgung": "√",
+          "Abwasserentsorgung": "√",
+          "Toiletten": "X",
+          "Duschen": "X",
+          "Hunde": "Willkommen, 4,00€",
+          "Kinder": "Willkommen",
+          "Einkaufsmöglichkeiten":"Kiosk vor Ort",
+          "Wintercamping":"√",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Angeln", "Spielplatz","Bademöglichkeit","Wandern","Radfahren"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.048639666269253,
+            52.61976567450182
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": " Wohnmobilstellplatz Nordhorn",
+          "Website": "https://www.vvv-nordhorn.de/uebernachten-essen/camping/wohnmobilstellplatz/",
+          "Ueber":"Gebührenpflichtiger Stellplatz für 40 Mobile am Ortsrand von Nordhorn. Überwiegend ebener, teilweise schattiger Platz. Untergrund mit Rasengitter. Zentrum zu Fuß erreichbar. ÖPNV-Anschluss in der Nähe. Am Platz: Frischwasser, Strom, Hunde erlaubt. In der Nähe: Nordhorner Tierpark 1,5 km, Museum Nordhorn 3 km. Bootsfahrten 500 m. Preis pro Nacht inklusive zwei erwachsener Personen: 5 Euro. Bezahlung: Parkscheinautomat. Entsorgung Grauwasser, Entsorgung Chemie-WC im Übernachtungspreis enthalten. Strom: 1 Euro/2 kWh, Wasser: 1 Euro/80 Ltr. Maximaler Aufenthalt: 3 Nächte.",
+          "4RPS-Tipp":" Bei passendem Wetter tagsüber durch die Kanäle von Nordhorn schippern und am Abend bei An Nam, Kawa Sushi oder im Pier99 essen und danach den Sonnenuntergang in der Hoch 5 Bar bei einem Cocktail genießen. ",
+          "Preis": " 5,00€ / Tag",
+          "Strom": " 1,00€ / 2 Kw",
+          "Wasser": " 1,00€ / 80l",
+          "Restaurant":" 210m",
+          "Anzahl der Plätze": 40,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": " √",
+          "Abwasserentsorgung": " √",
+          "Toiletten": "X",
+          "Duschen": "X",
+          "Hunde": " Willkommen",
+          "Kinder": " Willkommen",
+          "Einkaufsmöglichkeiten":" 500m",
+          "Wintercamping":" √",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Angeln", "Kanu, Kayak, Tretboote","Bademöglichkeit","Wandern","Radfahren","Shopping"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.08195883795571,
+            52.436801115846976
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+    ]
+
+  }
