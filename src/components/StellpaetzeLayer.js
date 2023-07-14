@@ -5,7 +5,6 @@ import * as L from "leaflet";
 import blueMarker from  '../assets/Marker/stellplatz.png'
 
 
-
 import { MdOutlineMuseum } from "react-icons/md";
 import { FaFish, FaPersonSwimming,FaDog,FaLocationArrow,FaWifi,FaRestroom,FaToilet,FaShower,FaChildren,FaRegSnowflake,FaHorse,FaPersonHiking } from 'react-icons/fa6';
 import {IoFitness, IoWaterSharp, IoRestaurantOutline,} from 'react-icons/io5';

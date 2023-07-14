@@ -1,24 +1,50 @@
-import React from 'react';
-import * as L from "leaflet";
-import MapComponent from './Map';
-import 'leaflet/dist/leaflet.css';
-import { MapContainer, Polyline, TileLayer } from 'react-leaflet';
-import SUPGiethoorn from '../assets/gpx/sup-giethoorn.gpx';
+import React from "react";
+import { GeoJSON } from "react-leaflet";
+import L from "leaflet";
+import supGiethoorn from "../data/sup-giethoorn.json";
+import eBikeGeestmoor from "../data/e-bike-tour_geestmoor.json";
 
-const GpxMap = () => {
 
+function Trips() {
     
-    var map = L.map('map');
-    L.titleLayer('http://{s}.title.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
-    }).addTo(map);
+   
+  
+    const setRoute = ({ geometry, properties }, layer) => {
+        const latlngs = geometry.coordinates.map((coords) => [coords[1], coords[0]]);
+        const polyline = L.polyline(latlngs);
+    
+        const popupContent = `
+          <div>
+            <h3>${properties.name}</h3>
+            <p>Type: ${properties.type}</p>
+            <p>Ausrüstung: ${properties.ausruestung}</p>
+            <p>Beschreibung: ${properties.beschreibung}</p>
+            <a href="${properties.website}" target="_blank">zur Route</a>
+          </div>
+        `;
+    
+        layer.bindPopup(popupContent);
+    
+        return polyline;
+      };
+    
     
 
-    var gpx = '../assets/gpx/sup-giethoorn.gpx';
-    new L.GPX(gpx, {async:true}).on('loaded', function(e) {
-        map.fitBounds(e.target.getBounds());
-    }).addTo(map);
-    
+  return (
+        <>
+        
+        <GeoJSON  
+        data={supGiethoorn} 
+        style={{ color: 'red' }} 
+        onEachFeature={setRoute} />
+
+        <GeoJSON 
+        data={eBikeGeestmoor} 
+        style={{ color: 'red' }} 
+        onEachFeature={setRoute} />
+        
+        </>
+      );
 }
 
-export default GpxMap;
+export default Trips;

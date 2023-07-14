@@ -5,6 +5,7 @@ import AusflugszieleLayer from './Ausflugsziele';
 import Tagesplaetze from './Tagesplaetze';
 import Trips from './Trips';
 
+
 const { BaseLayer, Overlay } = LayersControl;
 
 const MapComponent = () => {
@@ -78,17 +79,19 @@ const MapComponent = () => {
                     </LayerGroup>
                 </Overlay>
 
-                <Overlay checked={Tagesplaetze} name="Tagesplätze">
+                <Overlay checked={showTagesplaetze} name="Tagesplätze">
                     <LayerGroup>
                         <Tagesplaetze />
                     </LayerGroup>
                 </Overlay>
 
-                <Overlay checked={Trips} name="Trips / Routen">
+                <Overlay checked={showTrips} name="Trips">
                     <LayerGroup>
                         <Trips />
                     </LayerGroup>
                 </Overlay>
+
+            
             </LayersControl>
 
             <div>
