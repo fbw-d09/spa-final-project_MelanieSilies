@@ -13,7 +13,7 @@ import { FcIdea } from "react-icons/fc";
 import { TbWorldWww, TbParking,TbPigMoney,TbKayak,TbBike } from "react-icons/tb";
 import { PiPlugChargingFill } from "react-icons/pi";
 import { GiWaterRecycling,GiSlicedBread,GiGasStove,GiWoodCanoe,GiSurfBoard } from "react-icons/gi";
-import { BsFillChatRightTextFill } from "react-icons/bs";
+import { BsFillChatRightTextFill, BsCalendarWeekFill } from "react-icons/bs";
 import { BiSolidShoppingBags } from "react-icons/bi";
 
 
@@ -146,6 +146,10 @@ const getIcon = (keyOrActivity) => {
         case 'Ueber':
             icon = <BsFillChatRightTextFill/>;
             tooltipText = "Beschreibung";
+            break;
+        case 'Reservierung':
+            icon = <BsCalendarWeekFill/>;
+            tooltipText = "Reservierung";
             break;
                 
       

@@ -106,7 +106,324 @@
           "type": "Point"
         },
         "id": 0
-      }
-    ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Wohnmobilstellplatz Binnenhafen / Emden Delft",
+          "Website": "https://www.promobil.de/stellplatz/stellplatz-alter-binnenhafen-588f2049721d54a52816216e.html",
+          "Ueber":"Gebührenpflichtiger Stellplatz für 35 Mobile in Emden. Der Stellplatz liegt an einer Marina und in Flussnähe. Überwiegend ebener, teilweise schattiger Platz. Befestigter und gepflasterter Untergrund. Zentrum zu Fuß erreichbar. ÖPNV-Anschluss in der Nähe. Am Platz: Fahrradverleih, Frischwasser, Strom, Entsorgung Grauwasser, WC, Dusche.",
+          "4RPS-Tipp":"Top Standort, um Emden zu erkunden. Toll ist ein Spaziergang durch den Park, man kann dort Boote leihen. Sehenswert ist der alte Kesselschleuse. Wer alte Züge mag, sollte bei der alten Dampflok vor dem HBF vorbeischauen. Für Otto Waalkes Fans ist das Otto-Huus ganz in der Nähe",
+          "Preis": " 15,00€ / Tag",
+          "Strom": " 50 Cent/1 kWh",
+          "Wasser": " 50 Cent/100 L",
+          "Restaurant":" 210m",
+          "Anzahl der Plätze": 35,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": "50 Cent",
+          "Abwasserentsorgung": "50 Cent",
+          "Toiletten": "50 Cent",
+          "Duschen": "1€",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":" 700m",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Angeln", "Kanu, Kayak, Tretboote","Bademöglichkeit","Wandern","Radfahren","Shopping", "Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.208594465073684,
+            53.363281765433904
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Wohnmobilstellplatz Steinhude",
+          "Website": "http://www.steinhuder-meer.de/wohnmobilstellplatz",
+          "Ueber":"Der Wohnmobilstellplatz in Steinhude wird Sie durch seine gute Lage, die einfache Anfahrt und ein gutes Preis-Leistungsverhältnis begeistern. Er liegt direkt am Ortseingang von Steinhude (Bruchdamm), nur wenige Gehminuten vom Ortskern Steinhudes und dem Steinhuder Meer mit den touristischen Attraktionen wie dem Scheunenviertel, der Promenade und den Aalräuchereien entfernt.Der gemütliche Ortskern zeichnet sich durch seine vielfältige Gastronomie und die kleinen Boutiquen und Geschäfte aus. In den Sommermonaten gibt es Veranstaltungen für Jung und Alt.Der Wohnmobilstellplatz gehört zu den TopPlätzen in Deutschland. Es steht Ihnen ein Sanitärgebäude mit Duschen und WC's sowie Waschmaschine und Trockner zur Verfügung. Eine Entsorgungsstation ist ebenso vorhanden wie Stromanschlüsse in Form von Säulen für alle 164 parzellierten Stellplätze. Der Wohnmobilstellplatz ist ganzjährig geöffnet und wird vom Stellplatzteam täglich betreut. Da der Platz über eine Schrankenanlage und einen Kassenautomaten verfügt, kann er jederzeit befahren und verlassen werden. ",
+          "4RPS-Tipp":"Das Steinhuder Meer ist ganzjährig ein Highlight in der Region. Es gibt tolle Gastronomie, die Möglichkeit Boote und Rundfahrten zu buchen oder einfach nur zu relaxen. Hunde sind, sofern sie erzogen sind, gern gesehene Gäste. In der Naturschutzgebieten besteht ganzjährige Leinenpflicht. Auch für Barrierefreiheit ist das Steinhuder Meer bekannt und legt viel wert darauf, auch Senioren und Familien mit Kinderwägen gerecht zu werden.",
+          "Preis": " 18,00€ / Tag",
+          "Strom": "50 Cent/1 kWh",
+          "Wasser": " 1€/100 L",
+          "Restaurant":" 600m",
+          "Anzahl der Plätze": 164,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": "50 Cent",
+          "Abwasserentsorgung": "50 Cent",
+          "Toiletten": "50 Cent",
+          "Duschen": "1€ / 3 Min",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":" 800m",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"Mai - Sept",
+          "Aktivitäten":["Angeln", "Kanu", "Kayak", "Tretboote","Bademöglichkeit","Wandern","Radfahren","Shopping", "Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            9.355123970630743,
+            52.44856547822879
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "WOHNMOBILPARK WILLINGEN",
+          "Website": "https://www.wohnmobilpark-willingen.de/",
+          "Ueber":"Übernachten, direkt am Willinger Besucherzentrum mit Kino, Lagunen-Erlebnisbad und Eissporthalle.Willingen (Upland) liegt am Rande des Hochsauerlandes und ist ein sehr beliebtes Urlaubs- und Ausflugsziel für die ganze Familie. Rund um den Ettelsberg findet jeder Freizeitvergnügen und Ausflugsziele nach seinem Geschmack: Wandern, Biken, Baden, Rodeln, Klettern und im Winter natürlich die Wintersportmöglichkeiten des Skigebiet Willingen.",
+          "4RPS-Tipp":"Der Blick auf das Bergpanorama ist super. Wir waren im Herbst dort und haben beim Inder in, Zentrum hervorragend gegessen. Wir sind auf den Ettelsberg gewandert. Dort oben unbedingt in die Alm unnd Erbsensuppe essen. Die ist fantastisch!",
+          "Preis": " 18,00€ / Tag",
+          "Strom": " 1€ / 1,5 KW",
+          "Wasser": " 1€/100 L",
+          "Restaurant":" 600m",
+          "Anzahl der Plätze": 164,
+          "Reservierung": "X",
+          "Wlan": "",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "",
+          "Duschen": "2,50€ (in der Eissporthalle)",
+          "Hunde": "1,50€ / Nacht ab dem 2ten Hund",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":" 600m",
+          "Wintercamping":"",
+          "Gasflaschenservice":"",
+          "Bäcker":"",
+          "Aktivitäten":["Wandern","Radfahren","Shopping", "Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            8.613077568720664,
+            51.289731716154854
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Reisemobil Stellplatz Rheinaue",
+          "Website": "https://www.promobil.de/stellplatz/stellplatz-an-der-rheinaue-588f1da0721d54a52815db70.html",
+          "Ueber":"Übernachten, in direkter Nachbarschaft zum großen Rheinauenpark.",
+          "4RPS-Tipp":"Der Platz ist gut für eine Zwischenübernachtung oder um den Wagen für ein paar Stunden zu parken. Gemütlich und schön ist allerdings anders. Dafür ist die Umgebung, sobald man den Platz verlassen hat wirklich toll.",
+          "Preis": "Kostenlos",
+          "Strom": "X",
+          "Wasser": "X",
+          "Restaurant":" 700m",
+          "Anzahl der Plätze": 16,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": "X",
+          "Abwasserentsorgung": "X",
+          "Toiletten": "X",
+          "Duschen": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"1,5 Km",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Wandern","Radfahren","Shopping", "Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.139425355201986,
+            50.70969408215761
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Reisemobil Stellplatz Rheinaue",
+          "Website": "https://www.promobil.de/stellplatz/stellplatz-an-der-rheinaue-588f1da0721d54a52815db70.html",
+          "Ueber":"Übernachten, in direkter Nachbarschaft zum großen Rheinauenpark.",
+          "4RPS-Tipp":"Der Platz ist gut für eine Zwischenübernachtung oder um den Wagen für ein paar Stunden zu parken. Gemütlich und schön ist allerdings anders. Dafür ist die Umgebung, sobald man den Platz verlassen hat wirklich toll.",
+          "Preis": "Kostenlos",
+          "Strom": "X",
+          "Wasser": "X",
+          "Restaurant":" 700m",
+          "Anzahl der Plätze": 16,
+          "Reservierung": "X",
+          "Wlan": "X",
+          "Toilettenentsorgung": "X",
+          "Abwasserentsorgung": "X",
+          "Toiletten": "X",
+          "Duschen": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"1,5 Km",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Wandern","Radfahren","Shopping", "Museum"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.139425355201986,
+            50.70969408215761
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
 
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Camperresort Bodelaeke",
+          "Website": "https://www.promobil.de/stellplatz/camperresort-bodelaeke-588f1d40721d54a52815cf07.html",
+          "Ueber":"Großer Stellplatz mit Wasserzugang und Sanitär vor den Türen Giethoorns",
+          "4RPS-Tipp":"Toller, großzügiger Platz inkl Strom. Hunde sind kein Problem. Der Platz ist Barrierefrei. Man kann sich vor Ort SUP's leihen oder sein eigenes mitbringen und vom Platz aus direkt durch die Grachten nach Giethoorn rein. Tipp: Macht die Tour, wenn möglic, ab 17Uhr, dann sind deutlich weniger untalentierte Hobby - Mietbootfahrer unterwegs. ACHTUNG: Die Preise für WC und Dusche sind sehr hoch. Nach möglichkeit besser die Einrichtung im WoMo nutzen.",
+          "Preis": "19€ / Nacht",
+          "Strom": "inkl",
+          "Wasser": "50 Cent pro 100 Liter",
+          "Restaurant":" 300m",
+          "Anzahl der Plätze": 99,
+          "Reservierung": "X",
+          "Wlan": "",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "50 cent",
+          "Duschen": "50 cent / Minute",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"3 Km",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Wandern","Radfahren","Shopping", "Museum", "Kayak", "SUP","Bademöglichkeit","Kanu"]
+        },
+        "geometry": {
+          "coordinates": [
+            6.076334416219653,
+            52.71684359921817
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Campingplatz Naase",
+          "Website": "http://www.ferienhaus-naase.de/",
+          "Ueber":"Familiärer Campingplatz am Flugplatz Norderney. ",
+          "4RPS-Tipp":"Wir lieben diesen Ort. Nacht nach oben schauen und die Stralen des Leuchtturms sehen. Am Abend, wenn alle weg sind mit dem Hund zum Strand und Baden gehen. Ein Aufstieg auf den Leuchtturm ist natürlich Pflicht. Danach lecker essen und frisches Pils in der Düne 13 gegenüber des Leuchtturms. Wer gut zu Fuß ist sollte die Wanderung zum Wrack antreten. Der Weg zum Ostzipfel ist wunderschön. Man hat dort einen super Blick rüber nach Baltrum und kann mit Glück einige Seehunde beobachten,",
+          "Preis": "auf Anfrage",
+          "Strom": "",
+          "Wasser": "",
+          "Restaurant":" 200m",
+          "Anzahl der Plätze": "X",
+          "Reservierung": "",
+          "Wlan": "",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "",
+          "Duschen": "",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"6 Km",
+          "Wintercamping":"X",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Wandern","Radfahren", "Kayak", "SUP","Bademöglichkeit","Kanu"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.232844370692692,
+            53.70962282088421
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "WoMo Park Geeste",
+          "Website": "https://www.womopark-geeste.de/",
+          "Ueber":"Nach umfangreichen baulichen Veränderungen im vergangenen Winter steht der Womopark Geeste seit Mai 2021 für die Nutzung zur Verfügung. Vieles hat sich getan, Ent- u. Versorgung wurden eingerichtet, eine begrenzte Anzahl Plätze mit Stromanschlüssen wurde geschaffen, die Sanitäreinrichtungen sind jetzt nur noch für Gäste des Womopark zugänglich und es wird noch einiges weiteres folgen...",
+          "4RPS-Tipp":"Super Ausgangspunkt für Aktivitäten am See, zum Radfahren oder wandern. Im Winter bei Schnee, kann man hier auch gut Rodeln.",
+          "Preis": "10€ / Tag",
+          "Strom": "3€ / Tag",
+          "Wasser": "inkl",
+          "Restaurant":" 200m",
+          "Anzahl der Plätze": "62",
+          "Reservierung": "2 Wochen im vorraus. Kosten: 10€ extra",
+          "Wlan": "X",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "",
+          "Duschen": "",
+          "Hunde": "",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"2 Km",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"X",
+          "Aktivitäten":["Wandern","Radfahren", "Kayak", "SUP","Bademöglichkeit","Kanu"]
+        },
+        "geometry": {
+          "coordinates": [
+            7.274134053447322,52.59397364672164
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CAP Rotach",
+          "Website": "https://www.womopark-geeste.de/",
+          "Ueber":"Der kleine Platz mit Baumbestand liegt direkt am Ufer des Bodensees. Gepflegte Grünanlagen sorgen für die richtige Campingstimmung, egal ob im Wohnwagen, Wohnmobil oder in Ihrem Zelt. Unsere Sanitäreinrichtungen sind modern, zweckmäßig und natürlich barrierefrei. Auf Sauberkeit legen wir besonderen Wert.",
+          "4RPS-Tipp":"Super Ausgangspunkt für Aktivitäten am See, zum Radfahren oder wandern. Mit dem Rad ist man in weniger als 10 Minuten im Zentrum. Ein Besuch im Zeppelinmuseum lohnt sich. Abend mal auf ein Bierchen in den 'Western Saloon'.",
+          "Preis": "10€ / Tag + 10,50€ / Person",
+          "Strom": "4€ / Tag",
+          "Wasser": "inkl",
+          "Restaurant":"",
+          "Anzahl der Plätze": "62",
+          "Reservierung": "",
+          "Wlan": "",
+          "Toilettenentsorgung": "",
+          "Abwasserentsorgung": "",
+          "Toiletten": "",
+          "Duschen": "",
+          "Hunde": "4,00€",
+          "Kinder": "",
+          "Einkaufsmöglichkeiten":"2 Km",
+          "Wintercamping":"",
+          "Gasflaschenservice":"X",
+          "Bäcker":"",
+          "Aktivitäten":["Wandern","Radfahren", "Kayak", "SUP","Bademöglichkeit","Kanu"]
+        },
+        "geometry": {
+          "coordinates": [
+            9.496746634952492,47.64964882006394
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+    
+    ]
   }

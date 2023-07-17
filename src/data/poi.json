@@ -149,6 +149,68 @@
           "type": "Point"
         },
         "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Schaapskooi Bargerveen",
+          "Website": "http://bargerveen-schoonebeek.nl/weiteveen/",
+          "Ueber":" Mit über 100 Kühen und mehr als 1000 Schafen ist es der größte (und schönste!) Schafstall in den Niederlanden. Die Stallung hat einen Schaftriff in Richtung Naturschutzgebiet. Die Tiere werden zur Erhaltung der Natur eingesetzt. Durch die Luft und den Niederschlag ist zu viel Stickstoff im Bargerveen, so dass das Gras schneller wächst als Heidekraut und Torfmoose. Durch die Beweidung tragen Schafe und Kühe zum Erhalt der Natur bei. Darüber hinaus ist der Schafstall zu einer Freizeitattraktion geworden, in der viele Menschen die Tiere, die Landschaft und die Natur genießen können.",
+          "4RPS-Tipp":"Wer in der Nähe ist sollte sich den Schaapskooi auf keinen Fall engehen lassen. Vor allem um Ostern rum ist der Stall voll mit kleinen Lämmern. Auch Hunde sind willkommen und dürfen mit rein. Man schaut von oben in den Stall. Im Außerngelände kann man super spazieren gehen. Selbst mit dem Rollstuhl sind die Stufen kein Problem, es gibt Rollstuhlrampen und Lifte.",
+          "Oeffnungszeiten":"Immer erreichbar",
+          "Preis": "X",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"",
+          "Toiletten":"In der Gastronomie",
+          "Duschen":"X",
+          "Angeln":"X",
+          "Wassersport":"X",
+          "Bademöglickeit":"X",
+          "Wandern":"",
+          "Radfahren":"",
+          "Kultur":"X"
+        },
+        "geometry": {
+          "coordinates": [
+             7.000804312146787, 52.67847666237144
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Hundestrand am Dankernsee",
+          "Website": "https://schloss-dankern.de/dankernsee/",
+          "Ueber":" Der größte Badesee des Emslandes. Der kristallklare Dankernsee bietet auf rund 3 Kilometern flachen Sandstrand Platz für alle! Der Dankernsee lädt zum Baden, Sandburgen bauen und Genießen ein. Erkunden Sie den See bei einem entspannten Spaziergang, bei einer spritzigen Fahrt an der Wasserskianlage oder mit einem Tretboot. Für Fellnasen gibt es einen großen Bereich, indem auch sie auf Ihre kosten kommen",
+          "4RPS-Tipp":"Unserer Meinung nach einer der schönsten Seen weit und breit. Allerding sollte man in den Sommermonaten, vor allem in den Ferien sehr früh oder erst am Abend kommen, da der See sonst recht überfüllt ist.",
+          "Preis": "Kostenlos",
+          "Kartenzahlung":"X",
+          "Reservierung": "X",
+          "Hunde": "",
+          "Kinder": "",
+          "Barrierefrei":"X",
+          "Toiletten":"In der Gastronomie",
+          "Duschen":"",
+          "Angeln":"X",
+          "Wassersport":"",
+          "Bademöglickeit":"",
+          "Wandern":"",
+          "Radfahren":"X",
+          "Kultur":"X"
+        },
+        "geometry": {
+          "coordinates": [
+             7.181268927443509,52.79897723072332
+          ],
+          "type": "Point"
+        },
+        "id": 0
       }
 
     ]
