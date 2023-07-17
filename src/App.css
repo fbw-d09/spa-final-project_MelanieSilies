@@ -34,11 +34,20 @@ li{
 
 .activityIcons
 {
+  padding-top: 5px;
   gap: 4px;
   display: flex;
+  color: rgb(7, 98, 195);
 }
 
-.popup-icon {
+.weather
+{
+  padding: 10px;
+  background-color: rgb(236, 248, 255);
+}
+
+.popup-icon 
+{
   padding: 5px;
   color: rgb(7, 98, 195);
 }
