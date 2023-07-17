@@ -22,3 +22,5 @@ const blueIcon = L.icon({
 selbst erstellt und eingefügt.
 
 Außerdem gibt es einen Layer mit selbst gemachten Touren, welche über das Popup zur Tour ink Fotos auf Outdooractive / Komoot verweisen.
+
+![Vorschau](./src/assets/vorschaubild-Readme.png)
