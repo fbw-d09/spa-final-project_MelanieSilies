@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/spa-final-project_MelanieSilies/static/css/main.2dedf59d.css",
-    "main.js": "/spa-final-project_MelanieSilies/static/js/main.2df8d121.js",
+    "main.css": "/spa-final-project_MelanieSilies/static/css/main.0f309dba.css",
+    "main.js": "/spa-final-project_MelanieSilies/static/js/main.87bf8787.js",
     "static/js/787.adb03a82.chunk.js": "/spa-final-project_MelanieSilies/static/js/787.adb03a82.chunk.js",
     "static/media/ausflug.png": "/spa-final-project_MelanieSilies/static/media/ausflug.9ded34d85fd7890d46ed.png",
     "static/media/stellplatz.png": "/spa-final-project_MelanieSilies/static/media/stellplatz.7c1a6e631a1f759f2564.png",
     "index.html": "/spa-final-project_MelanieSilies/index.html",
-    "main.2dedf59d.css.map": "/spa-final-project_MelanieSilies/static/css/main.2dedf59d.css.map",
-    "main.2df8d121.js.map": "/spa-final-project_MelanieSilies/static/js/main.2df8d121.js.map",
+    "main.0f309dba.css.map": "/spa-final-project_MelanieSilies/static/css/main.0f309dba.css.map",
+    "main.87bf8787.js.map": "/spa-final-project_MelanieSilies/static/js/main.87bf8787.js.map",
     "787.adb03a82.chunk.js.map": "/spa-final-project_MelanieSilies/static/js/787.adb03a82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dedf59d.css",
-    "static/js/main.2df8d121.js"
+    "static/css/main.0f309dba.css",
+    "static/js/main.87bf8787.js"
   ]
 }
