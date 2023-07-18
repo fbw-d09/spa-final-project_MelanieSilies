@@ -1,11 +1,7 @@
 import './App.css';
 import MapComponent from './components/Map';
 
-
-
 function App() {
-
-
   return (
     <MapComponent/>
   );

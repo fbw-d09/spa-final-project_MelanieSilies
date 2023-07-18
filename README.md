@@ -1,6 +1,6 @@
 # Interaktive Karte von und für Camper
 
-##### Dies ist das Final Project aus dem Unterrichtsmodul Single Page Application.
+### Dies ist das Final Project aus dem Unterrichtsmodul Single Page Application.
 
 Die Map wurde mithilfe von Leaflet (https://leafletjs.com/) in React erstellt und hat verschiedene Kartenansichten (Open Street Map, Satellit,...). 
 Ebenso gibt es mehrere Layer, mit denen man Filtern kann, ob man Stellplätze, Tagesparkplätze, Auslugsziele oder alles sehen möchte.

@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import {MapContainer, TileLayer, LayerGroup, LayersControl } from 'react-leaflet';
+
+//Import Datas
 import StellplaetzeLayer from './StellpaetzeLayer';
 import AusflugszieleLayer from './Ausflugsziele';
 import Tagesplaetze from './Tagesplaetze';
@@ -12,8 +14,6 @@ const MapComponent = () => {
   const [showAusflugsziele, setShowAusflugsziele] = useState(true);
   const [showTagesplaetze, setShowTagesplaetze] = useState(true);
   const [showTrips, setShowTrips] = useState(true);
-
- 
 
   const handleLayerToggle = (layer) => {
     switch (layer) {
@@ -81,7 +81,7 @@ const MapComponent = () => {
             <Tagesplaetze />
           </LayerGroup>
         </Overlay>
-        
+
         <Overlay checked={showTrips} name="Trips">
           <LayerGroup>
             <Trips />
