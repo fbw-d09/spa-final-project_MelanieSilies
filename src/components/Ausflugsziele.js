@@ -97,11 +97,11 @@ const getIcon = (key) => {
         break;
     case 'Hunde':
         icon = <FaDog />;
-        tooltipText = 'Hunde';
+        tooltipText = 'Hunde willkommen';
         break;
     case 'Kinder':
         icon = <FaChildren />;
-        tooltipText = 'Kinder';
+        tooltipText = 'Kinder willkommen';
         break;
     case 'Reservierung':
         icon = <IoTicketSharp/>;
